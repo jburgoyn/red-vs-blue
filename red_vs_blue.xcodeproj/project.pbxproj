@@ -12,6 +12,8 @@
 		F9F5B5D51C2DD21700BB901D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9F5B5D31C2DD21700BB901D /* Main.storyboard */; };
 		F9F5B5D71C2DD21700BB901D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9F5B5D61C2DD21700BB901D /* Assets.xcassets */; };
 		F9F5B5DA1C2DD21700BB901D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9F5B5D81C2DD21700BB901D /* LaunchScreen.storyboard */; };
+		F9F5B5E31C2DD30E00BB901D /* red.png in Resources */ = {isa = PBXBuildFile; fileRef = F9F5B5E11C2DD30E00BB901D /* red.png */; };
+		F9F5B5E41C2DD30E00BB901D /* blue.png in Resources */ = {isa = PBXBuildFile; fileRef = F9F5B5E21C2DD30E00BB901D /* blue.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		F9F5B5D61C2DD21700BB901D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F9F5B5D91C2DD21700BB901D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F9F5B5DB1C2DD21700BB901D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F9F5B5E11C2DD30E00BB901D /* red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red.png; sourceTree = "<group>"; };
+		F9F5B5E21C2DD30E00BB901D /* blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blue.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 				F9F5B5D11C2DD21700BB901D /* ViewController.swift */,
 				F9F5B5D31C2DD21700BB901D /* Main.storyboard */,
 				F9F5B5D61C2DD21700BB901D /* Assets.xcassets */,
+				F9F5B5E11C2DD30E00BB901D /* red.png */,
+				F9F5B5E21C2DD30E00BB901D /* blue.png */,
 				F9F5B5D81C2DD21700BB901D /* LaunchScreen.storyboard */,
 				F9F5B5DB1C2DD21700BB901D /* Info.plist */,
 			);
@@ -123,6 +129,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				F9F5B5DA1C2DD21700BB901D /* LaunchScreen.storyboard in Resources */,
+				F9F5B5E41C2DD30E00BB901D /* blue.png in Resources */,
+				F9F5B5E31C2DD30E00BB901D /* red.png in Resources */,
 				F9F5B5D71C2DD21700BB901D /* Assets.xcassets in Resources */,
 				F9F5B5D51C2DD21700BB901D /* Main.storyboard in Resources */,
 			);
